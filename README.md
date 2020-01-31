@@ -1,1 +1,2 @@
-# my-travel-plan
+# my-travel-plan app
+This app is all about traveling 
